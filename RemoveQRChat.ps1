@@ -1,1 +1,1 @@
-﻿Invoke-WebRequest -Uri "https://filebin.net/83ld2xonkrjqbz17/SkypeSettings.xml" -OutFile "C:\Users\Skype\AppData\Local\Packages\Microsoft.SkypeRoomSystem_8wekyb3d8bbwe\LocalState\SkypeSettings.xml"
+﻿Invoke-WebRequest -Uri "https://raw.githubusercontent.com/flipfire87/MTR/main/SkypeSettings.xml" -OutFile "C:\Users\Skype\AppData\Local\Packages\Microsoft.SkypeRoomSystem_8wekyb3d8bbwe\LocalState\SkypeSettings.xml"
