@@ -1,5 +1,6 @@
  <SkypeSettings>
   <RoomQRcodeEnabled>false</RoomQRcodeEnabled>
+  <QRCodeAutoAcceptProximateMeetingInvitations>false</QRCodeAutoAcceptProximateMeetingInvitations>
   <OpenMeetingChatByDefault>false</OpenMeetingChatByDefault>
   <HideMeetingName>1</HideMeetingName>
  </SkypeSettings>
