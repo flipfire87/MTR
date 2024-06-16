@@ -1,4 +1,5 @@
  <SkypeSettings>
   <RoomQRcodeEnabled>false</RoomQRcodeEnabled>
   <OpenMeetingChatByDefault>false</OpenMeetingChatByDefault>
+  <HideMeetingName>1</HideMeetingName>
  </SkypeSettings>
